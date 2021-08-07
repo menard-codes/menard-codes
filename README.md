@@ -3,7 +3,7 @@
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px">
 <p style="margin-bottom: 0" align="left">
-<a href="mailto:" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="menard_codes" /></a>
+<a href="mailto:?to=menardmaranan.codes@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="menard_codes" /></a>
 </p>
 <p style="margin-bottom: 0" align="left">
 <a href="https://twitter.com/menard_codes" target="blank"><img src="https://img.shields.io/twitter/follow/menard_codes?logo=twitter&style=for-the-badge" alt="menard_codes" /></a>
