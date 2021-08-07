@@ -17,11 +17,11 @@
 
 - 🔭 I’m currently working on [My Chat App](https://discussion-chat-app.vercel.app/)
 
-- 🌱 I’m currently learning **TypeScript, Docker, Jest**
+- 🌱 I’m currently learning **TypeScript, Docker, and Jest**
 
-- 👯 I’m looking to collaborate on **React, NextJS, Python related Projects**
+- 👯 I’m looking to collaborate on **React, NextJS, and Python related Projects**
 
-- 🤝 I’m looking for help with **AWS, Docker, Jest**
+- 🤝 I’m looking for help with **AWS, Docker, and Jest**
 
 - 👨‍💻 My portfolio is in [https://menard-maranan.codes](https://menard-maranan.codes)
 
