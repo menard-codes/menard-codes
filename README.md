@@ -19,11 +19,11 @@
 
 - 🌱 I’m currently learning **TypeScript, Docker, Jest**
 
-- 👯 I’m looking to collaborate on **React, NextJS related Projects**
+- 👯 I’m looking to collaborate on **React, NextJS, Python related Projects**
 
 - 🤝 I’m looking for help with **AWS, Docker, Jest**
 
-- 👨‍💻 All of my projects are available at [https://menard-maranan.codes](https://menard-maranan.codes)
+- 👨‍💻 My portfolio is in [https://menard-maranan.codes](https://menard-maranan.codes)
 
 - 📝 I regularly write articles on [https://dev.to/menard_codes](https://dev.to/menard_codes)
 
@@ -31,9 +31,9 @@
 
 - 📫 How to reach me **menardmaranan.codes@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XCvl91bSCUgWdAi3oaOmLAwIZ_NNysEl/view?usp=sharing](https://drive.google.com/file/d/1XCvl91bSCUgWdAi3oaOmLAwIZ_NNysEl/view?usp=sharing)
+- 📄 My resume is here [https://drive.google.com/file/d/1XCvl91bSCUgWdAi3oaOmLAwIZ_NNysEl/view?usp=sharing](https://drive.google.com/file/d/1XCvl91bSCUgWdAi3oaOmLAwIZ_NNysEl/view?usp=sharing)
 
-- ⚡ Fun fact **I'm actually taking a Marketing Degree, but is into the Web Development Field**
+- ⚡ Fun fact **I'm actually taking a Marketing Degree, but is into the Web Development Field. So I got Business and Technical Backgrounds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
