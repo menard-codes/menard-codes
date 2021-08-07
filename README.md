@@ -33,7 +33,7 @@
 
 - 📄 My resume is here [https://drive.google.com/file/d/1XCvl91bSCUgWdAi3oaOmLAwIZ_NNysEl/view?usp=sharing](https://drive.google.com/file/d/1XCvl91bSCUgWdAi3oaOmLAwIZ_NNysEl/view?usp=sharing)
 
-- ⚡ Fun fact **I'm actually taking a Marketing Degree, but is into the Web Development Field. So I got Business and Technical Backgrounds**
+- ⚡ Fun fact **I'm taking a Business Degree, with major in Marketing. So besides my technical knowledge, I also have a Business Background**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
