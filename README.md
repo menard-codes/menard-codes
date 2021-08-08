@@ -1,7 +1,11 @@
 <h1 align="center">Menard Maranan 👨‍💻</h1>
 <h3 align="center">Web Developer (React, NextJS, Python)</h3>
 
-![programmer gif](https://raw.githubusercontent.com/menard-codes/menard-codes/main/e426702edf874b181aced1e2fa5c6cde.gif)
+<!-- ![programmer gif](https://raw.githubusercontent.com/menard-codes/menard-codes/main/e426702edf874b181aced1e2fa5c6cde.gif) -->
+
+<div style="width: 100%; height 100%; display: flex; justify-content: center;">
+	<img src="https://raw.githubusercontent.com/menard-codes/menard-codes/main/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
 
 <br />
 
