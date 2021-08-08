@@ -1,6 +1,10 @@
 <h1 align="center">Menard Maranan 👨‍💻</h1>
 <h3 align="center">Web Developer (React, NextJS, Python)</h3>
 
+![programmer gif](https://raw.githubusercontent.com/menard-codes/menard-codes/main/e426702edf874b181aced1e2fa5c6cde.gif)
+
+<br />
+
 <div style="display: flex; gap: 10px; margin-bottom: 10px">
 <p style="margin-bottom: 0" align="left">
 <a href="mailto:?to=menardmaranan.codes@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="menard_codes" /></a>
