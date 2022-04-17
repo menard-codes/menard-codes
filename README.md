@@ -23,13 +23,11 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menard-codes" alt="menard-codes" /></a> </p>
 
 
-- 🔭 I’m currently working on [My Chat App](https://discussion-chat-app.vercel.app/)
+- 🔭 I’m currently working on My Start-up.
 
-- 🌱 I’m currently learning **TypeScript, Docker, and Jest**
+- 🌱 I’m currently learning **TypeScript, Jest, React Testing Library, and Playwright (e2e)**
 
 - 👯 I’m looking to collaborate on **React, NextJS, and Python related Projects**
-
-- 🤝 I’m looking for help with **AWS, Docker, and Jest**
 
 - 👨‍💻 My portfolio is in [https://menard-maranan.codes](https://menard-maranan.codes)
 
@@ -39,7 +37,7 @@
 
 - 📫 How to reach me **menardmaranan.codes@gmail.com**
 
-- 📄 My resume is here [https://drive.google.com/file/d/1XCvl91bSCUgWdAi3oaOmLAwIZ_NNysEl/view?usp=sharing](https://drive.google.com/file/d/1XCvl91bSCUgWdAi3oaOmLAwIZ_NNysEl/view?usp=sharing)
+- 📄 My Linked In is here [Menard Maranan - Linked In Profile](https://www.linkedin.com/in/menard-maranan/)
 
 - ⚡ Fun fact **I'm taking a Business Degree, with major in Marketing. So besides my technical knowledge, I also have a Business Background**
 
