@@ -23,7 +23,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menard-codes" alt="menard-codes" /></a> </p>
 
 
-- 🔭 I’m currently working on My Start-up.
+- 🔭 I’m currently working on: **My Start-up.**
 
 - 🌱 I’m currently learning **TypeScript, Jest, React Testing Library, and Playwright (e2e)**
 
