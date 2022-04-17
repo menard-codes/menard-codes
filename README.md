@@ -27,17 +27,17 @@
 
 - 🌱 I’m currently learning **TypeScript, Jest, React Testing Library, and Playwright (e2e)**
 
-- 👯 I’m looking to collaborate on **open source projects, or any tech content writing gigs**
+- 👯 I’m looking to collaborate on **any open source projects, or tech content writing gigs/collabs/write for us**
 
 - 👨‍💻 My portfolio is in [https://menard-maranan.codes](https://menard-maranan.codes)
 
 - 📝 I regularly write articles on [https://dev.to/menard_codes](https://dev.to/menard_codes)
 
-- 💬 Ask me about **React, NextJS, Python, GraphQL, NodeJS**
+- 💬 Ask me about **NextJS, a web development job, or a tech writing job**
 
-- 📫 How to reach me **menardmaranan.codes@gmail.com**
+- 📫 How to reach me: **menardmaranan.codes@gmail.com**
 
-- 📄 My Linked In is here [Menard Maranan - Linked In Profile](https://www.linkedin.com/in/menard-maranan/)
+- 📄 My LinkedIn is here [Menard Maranan - Linked In Profile](https://www.linkedin.com/in/menard-maranan/)
 
 - ⚡ Fun fact **I'm taking a Business Degree, with major in Marketing. So besides my technical knowledge, I also have a Business Background**
 
