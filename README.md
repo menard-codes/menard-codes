@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Jest, React Testing Library, and Playwright (e2e)**
 
-- 👯 I’m looking to collaborate on **React, NextJS, and Python related Projects**
+- 👯 I’m looking to collaborate on **open source projects, or any tech content writing gigs**
 
 - 👨‍💻 My portfolio is in [https://menard-maranan.codes](https://menard-maranan.codes)
 
