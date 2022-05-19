@@ -13,7 +13,7 @@
 <a href="https://twitter.com/menard_codes" target="blank"><img src="https://img.shields.io/twitter/follow/menard_codes?logo=twitter&style=for-the-badge" alt="menard_codes" /></a>
 
 <p>
-	<a href="https://app.daily.dev/DailyDevTips" targe="_blank">
+	<a href="https://app.daily.dev/menard_codes" targe="_blank">
 		<img
 		     src="https://github.com/menard-codes/menard-codes/blob/main/devcard.svg"
 		     width="256"
