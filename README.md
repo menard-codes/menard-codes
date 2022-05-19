@@ -22,7 +22,7 @@
 	</a>
 	<p>
 		I'm Menard Maranan, a Fullstack Developer. As per my tech, I'm currently focused on Next.JS, which is my primary JavaScript framework of choice for building Web Apps (or just a regular website). I also write tech-related content in platforms like
-		<a href="https://dev.to/menard_codes">Dev.to</a>
+		<a href="https://dev.to/menard_codes" target="_blank">Dev.to</a>
 		during my spare time, or with a company through their "Write for us" program (mostly paid work).
 	</p>
 </p>
