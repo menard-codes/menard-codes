@@ -45,7 +45,7 @@
 
 - 📄 My LinkedIn is here [Menard Maranan - Linked In Profile](https://www.linkedin.com/in/menard-maranan/)
 
-- ⚡ Fun fact: **I'm taking a Business Degree, with major in Marketing. So besides my technical knowledge, I also have a Business Background**
+- ⚡ Fun fact: **I'm taking a Business Degree, with a major in Marketing. So besides my technical knowledge, I also have a Business Background**
 	
 <h2>Connect with me</h2>
 
