@@ -7,7 +7,9 @@
 	<img src="https://raw.githubusercontent.com/menard-codes/menard-codes/main/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div> -->
 
-<a href="https://app.daily.dev/menard_codes"><img src="https://api.daily.dev/devcards/0fb3d78eef0d4659a77efebf454af8d0.png?r=fsd" width="400" alt="Menard Maranan's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/menard_codes"><img src="https://api.daily.dev/devcards/0fb3d78eef0d4659a77efebf454af8d0.png?r=fsd" width="400" alt="Menard Maranan's Dev Card"/></a> -->
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/menard-codes/menard-codes/blob/master/devcard.svg" width="400" alt="Menard Maranan's Dev Card"/></a>
 
 <br />
 
