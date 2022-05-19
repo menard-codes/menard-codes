@@ -3,9 +3,11 @@
 
 <!-- ![programmer gif](https://raw.githubusercontent.com/menard-codes/menard-codes/main/e426702edf874b181aced1e2fa5c6cde.gif) -->
 
-<div style="width: 100%; height 100%; display: flex; justify-content: center;">
+<!-- <div style="width: 100%; height 100%; display: flex; justify-content: center;">
 	<img src="https://raw.githubusercontent.com/menard-codes/menard-codes/main/e426702edf874b181aced1e2fa5c6cde.gif" />
-</div>
+</div> -->
+
+<a href="https://app.daily.dev/menard_codes"><img src="https://api.daily.dev/devcards/0fb3d78eef0d4659a77efebf454af8d0.png?r=fsd" width="400" alt="Menard Maranan's Dev Card"/></a>
 
 <br />
 
