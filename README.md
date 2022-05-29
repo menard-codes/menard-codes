@@ -21,12 +21,19 @@
 		     alt="Menard Maranan's Dev Card"/>
 	</a>
 	<p>
-		I'm Menard Maranan, a Fullstack Developer. As per my tech, I'm currently focused on Next.JS, which is my primary JavaScript framework of choice for building Web Apps (or just a regular website). I also write tech-related content in platforms like
+		I'm Menard Maranan, a Fullstack Developer.
+	</p>
+	<p>
+		As per my tech, I'm currently focused on Next.JS, which is my primary JavaScript framework of choice for building Web Apps (or just a regular website). I also write tech-related content in platforms like
 		<a href="https://dev.to/menard_codes" target="_blank">Dev.to</a>
 		during my spare time, or with a company through their "Write for us" program (mostly paid work).
 	</p>
 </p>
 
+---
+
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menard-codes" alt="menard-codes" /></a> </p>
 
 ## Overview
 
