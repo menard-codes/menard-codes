@@ -30,16 +30,15 @@
 	</p>
 </p>
 
----
-
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menard-codes" alt="menard-codes" /></a> </p>
-
 ## Overview
 
 <!-- - 🔭 I’m currently working on: **My Start-up.** -->
 
 <!-- - 🌱 I’m currently learning **TypeScript, Jest, React Testing Library, and Playwright (e2e)** -->
+
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menard-codes" alt="menard-codes" /></a> </p>
+
 - 👯 I’m looking to collaborate on **any open source projects, or tech content writing gigs/collabs/write for us**
 
 - 👨‍💻 My portfolio is in [https://menard-maranan.codes](https://menard-maranan.codes)
@@ -53,7 +52,7 @@
 - 📄 My LinkedIn is here [Menard Maranan - Linked In Profile](https://www.linkedin.com/in/menard-maranan/)
 
 - ⚡ Fun fact: **I'm taking a Business Degree, with a major in Marketing. So besides my technical knowledge, I also have a Business Background**
-	
+
 <h2>Connect with me</h2>
 
 <a href="https://dev.to/menard_codes" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="menard_codes" height="30" width="40" /></a>
