@@ -24,9 +24,10 @@
 		I'm Menard Maranan, a Fullstack Developer.
 	</p>
 	<p>
-		As per my tech, I'm currently focused on Next.JS, which is my primary JavaScript framework of choice for building Web Apps (or just a regular website). I also write tech-related content in platforms like
+		As per my tech, I'm currently focused on React.JS, which is my primary JavaScript framework of choice for the Front End. I also write tech-related content in platforms like
 		<a href="https://dev.to/menard_codes" target="_blank">Dev.to</a>
 		during my spare time, or with a company through their "Write for us" program (mostly paid work).
+		I'm also an <a href="https://www.freecodecamp.org/news/author/menard/" target="_blank">author at freeCodeCamp</a>.
 	</p>
 </p>
 
@@ -36,13 +37,13 @@
 
 <!-- - 🌱 I’m currently learning **TypeScript, Jest, React Testing Library, and Playwright (e2e)** -->
 
-- 👯 I’m looking to collaborate on **any open source projects, or tech content writing gigs/collabs/write for us**
+<!-- - 👯 I’m looking to collaborate on **any open source projects, or tech content writing gigs/collabs/write for us** -->
 
-- 👨‍💻 My portfolio is in [https://menard-maranan.codes](https://menard-maranan.codes)
+<!-- - 👨‍💻 My portfolio is in [https://menard-maranan.codes](https://menard-maranan.codes) -->
 
-- 📝 I write articles on [https://dev.to/menard_codes](https://dev.to/menard_codes)
+- 📝 I write articles in [https://dev.to/menard_codes](https://dev.to/menard_codes)
 
-- 💬 Ping me regarding: **Open source contribution, hackathon, a fullstack dev job opportunity, or a tech writing job**
+<!-- - 💬 Ping me regarding: **Open source contribution, hackathon, a fullstack dev job opportunity, or a tech writing job** -->
 
 - 📫 How to reach me: ✉️ **menardmaranan.codes@gmail.com**
 
