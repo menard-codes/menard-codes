@@ -64,8 +64,8 @@
 
 <p>
 	
-<a href="https://nextjs.org/" target="_blank">
-	<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
+<a href="https://www.typescriptlang.org/" target="_blank">
+	<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/>
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
@@ -90,8 +90,3 @@
 	
 </p>
 	
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=menard-codes&show_icons=true&locale=en&layout=compact" alt="menard-codes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=menard-codes&" alt="menard-codes" /></p>
-
