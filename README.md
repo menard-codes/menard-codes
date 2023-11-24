@@ -1,4 +1,4 @@
-<h1>Menard Maranan 👨‍💻</h1>
+<h1>Menard Maranan 👨‍💻🇵🇭</h1>
 <h3>Jr. Fullstack Developer | Technical Writer</h3>
 
 <!-- ![programmer gif](https://raw.githubusercontent.com/menard-codes/menard-codes/main/e426702edf874b181aced1e2fa5c6cde.gif) -->
