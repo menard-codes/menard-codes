@@ -7,10 +7,12 @@
 	<img src="https://raw.githubusercontent.com/menard-codes/menard-codes/main/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div> -->
 
-<!-- <a href="https://app.daily.dev/menard_codes"><img src="https://api.daily.dev/devcards/0fb3d78eef0d4659a77efebf454af8d0.png?r=fsd" width="400" alt="Menard Maranan's Dev Card"/></a> -->
-
-<a href="mailto:?to=menardmaranan.codes@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="menard_codes" /></a>
-<a href="https://twitter.com/menard_codes" target="blank"><img src="https://img.shields.io/twitter/follow/menard_codes?logo=twitter&style=for-the-badge" alt="menard_codes" /></a>
+<a href="mailto:?to=menardmaranan.codes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="menard_codes" /></a>
+<a href="https://linkedin.com/in/menard-maranan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="menard-codes" /></a>
+<a href="https://dev.to/menard_codes" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="menard-maranan" /></a>
+<a href="https://www.freecodecamp.org/news/author/menard/" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="menard-maranan" /></a>
+<a href="https://twitter.com/menard_codes" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="menard_codes" /></a>
+<a href="https://hashnode.com/@menard-codes" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="menard-maranan" /></a>
 
 <p>
 	<a href="https://app.daily.dev/menard_codes" targe="_blank">
@@ -21,15 +23,21 @@
 		     alt="Menard Maranan's Dev Card"/>
 	</a>
 	<p>
-		I'm Menard Maranan, a Fullstack Developer.
-	</p>
-	<p>
-		As per my tech, I'm currently focused on React.JS, which is my primary JavaScript framework of choice for the Front End. I also write tech-related content in platforms like
-		<a href="https://dev.to/menard_codes" target="_blank">Dev.to</a>
-		during my spare time, or with a company through their "Write for us" program (mostly paid work).
-		I'm also an <a href="https://www.freecodecamp.org/news/author/menard/" target="_blank">author at freeCodeCamp</a>.
+Results-driven Jr. Fullstack Developer with expertise in React.js, TypeScript/JavaScript, HTML, and CSS. Proven track record at ConnectOS, collaborating with cross-functional teams and contributing to Git-managed projects. Experienced freelance software developer and adept at crafting clear technical documentation.
 	</p>
 </p>
+
+## Skills
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ## Overview
 
@@ -45,11 +53,11 @@
 
 <!-- - 💬 Ping me regarding: **Open source contribution, hackathon, a fullstack dev job opportunity, or a tech writing job** -->
 
-- 📫 How to reach me: ✉️ **menardmaranan.codes@gmail.com**
+- 📫 How to reach me: ✉️ **menardmaranan16@gmail.com**
 
 - 📄 My LinkedIn is here [Menard Maranan - Linked In Profile](https://www.linkedin.com/in/menard-maranan/)
 
-- ⚡ Fun fact: **I'm taking a Business Degree, with a major in Marketing. So besides my technical knowledge, I also have a Business Background**
+- ⚡ Fun fact: **I took a Business Degree in college and graduated as a Cum Laude. So besides my technical knowledge, I also have a Business Background**
 
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menard-codes" alt="menard-codes" /></a> </p>
@@ -59,34 +67,3 @@
 <a href="https://dev.to/menard_codes" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="menard_codes" height="30" width="40" /></a>
 <a href="https://twitter.com/menard_codes" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="menard_codes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/menard-maranan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="menard-maranan" height="30" width="40" /></a>
-
-<h2>Tech I use</h2>
-
-<p>
-	
-<a href="https://www.typescriptlang.org/" target="_blank">
-	<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://graphql.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-	
-</p>
-	
