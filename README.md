@@ -62,8 +62,3 @@ Results-driven Jr. Fullstack Developer with expertise in React.js, TypeScript/Ja
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menard-codes" alt="menard-codes" /></a> </p>
 
-<h2>Connect with me</h2>
-
-<a href="https://dev.to/menard_codes" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="menard_codes" height="30" width="40" /></a>
-<a href="https://twitter.com/menard_codes" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="menard_codes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/menard-maranan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="menard-maranan" height="30" width="40" /></a>
