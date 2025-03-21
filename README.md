@@ -22,7 +22,6 @@
 		     align="right"
 		     alt="Menard Maranan's Dev Card"/>
 	</a>
-	<p>Software Developer</p>
 </p>
 
 ## Skills
