@@ -22,22 +22,18 @@
 		     align="right"
 		     alt="Menard Maranan's Dev Card"/>
 	</a>
-	<p>
-Results-driven Jr. Fullstack Developer with expertise in React.js, TypeScript/JavaScript, HTML, and CSS. Proven track record at ConnectOS, collaborating with cross-functional teams and contributing to Git-managed projects. Experienced freelance software developer and adept at crafting clear technical documentation.
-	</p>
+	<p>Software Developer</p>
 </p>
 
 ## Skills
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+(and more, too much to list everything here, :P)
 
 ## Overview
 
@@ -49,15 +45,13 @@ Results-driven Jr. Fullstack Developer with expertise in React.js, TypeScript/Ja
 
 <!-- - 👨‍💻 My portfolio is in [https://menard-maranan.codes](https://menard-maranan.codes) -->
 
-- 📝 I write articles in [https://dev.to/menard_codes](https://dev.to/menard_codes)
+<!-- - 📝 I write articles in [https://dev.to/menard_codes](https://dev.to/menard_codes) -->
 
 <!-- - 💬 Ping me regarding: **Open source contribution, hackathon, a fullstack dev job opportunity, or a tech writing job** -->
 
 - 📫 How to reach me: ✉️ **menardmaranan16@gmail.com**
 
 - 📄 My LinkedIn is here [Menard Maranan - Linked In Profile](https://www.linkedin.com/in/menard-maranan/)
-
-- ⚡ Fun fact: **I took a Business Degree in college and graduated as a Cum Laude. So besides my technical knowledge, I also have a Business Background**
 
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menard-codes" alt="menard-codes" /></a> </p>
