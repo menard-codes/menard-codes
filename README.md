@@ -1,4 +1,8 @@
-<h1>Menard Maranan 👨‍💻</h1>
+<hgroup>
+	<h1>Menard Maranan 👨‍💻</h1>
+	<p>Fullstack dev building AI-powered tools</p>
+</hgroup>
+
 <h3>Software Developer</h3>
 
 <!-- ![programmer gif](https://raw.githubusercontent.com/menard-codes/menard-codes/main/e426702edf874b181aced1e2fa5c6cde.gif) -->
@@ -52,6 +56,6 @@
 
 - 📄 My LinkedIn is here [Menard Maranan - Linked In Profile](https://www.linkedin.com/in/menard-maranan/)
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menard-codes" alt="menard-codes" /></a> </p>
+<!-- <p align="left"> -->
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menard-codes" alt="menard-codes" /></a> </p> -->
 
