@@ -54,7 +54,7 @@
 - 🥇 **Dev.to Hackathon Winner** — [Solar System: Glam Up My Markup](https://dev.to/menard_codes) (Sept 2024)
 - 🛍️ **Shipped a Shopify App**
 	- 🔗 [Syncor Alt on the Shopify App Store](https://apps.shopify.com/syncor-alt)
-	- 🔗 [Website](https://syncoralt.com)
+	- 🔗 [Website](https://syncor-alt.com)
 
 ## Skills
 
