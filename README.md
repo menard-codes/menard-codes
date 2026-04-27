@@ -13,8 +13,13 @@
 <a href="https://www.freecodecamp.org/news/author/menard/" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="menard-maranan" /></a>
 <a href="https://twitter.com/menard_codes" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="menard_codes" /></a>
 <!-- <a href="https://hashnode.com/@menard-codes" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="menard-maranan" /></a> -->
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/menard-codes">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/menard-codes">
+
+### Github
+
+<div style="display: flex;">
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/menard-codes">
+	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/menard-codes">
+</div>
 
 
 <!-- <div style="width: 100%; height 100%; display: flex; justify-content: center;">
@@ -52,7 +57,9 @@
 ## 🏆 Highlights
 
 - 🥇 **Dev.to Hackathon Winner** — [Solar System: Glam Up My Markup](https://dev.to/menard_codes) (Sept 2024)
-- 🛍️ **Shipped a Shopify App**
+- 👨‍💻 **Hackathon Project** - [Secure File Transfer](https://github.com/menard-codes/secure-file-transfer)
+    - **Hackathon Entry**: https://dev.to/menard_codes/secure-file-transfer-a-safer-way-to-share-sensitive-files-online-2nnj
+- 🛍️ **Shipped a Production (End-to-End) Shopify App**
 	- 🔗 [Syncor Alt on the Shopify App Store](https://apps.shopify.com/syncor-alt)
 	- 🔗 [Website](https://syncor-alt.com)
 
