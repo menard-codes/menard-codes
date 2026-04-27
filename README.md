@@ -1,9 +1,9 @@
 <hgroup>
 	<h1>Menard Maranan 👨‍💻</h1>
-	<p>3+ years Fullstack Developer</p>
+	<p>Fullstack Developer</p>
 </hgroup>
 
-<h3>Personal Links</h3>
+<h3>💬 Let's Talk</h3>
 
 <!-- ![programmer gif](https://raw.githubusercontent.com/menard-codes/menard-codes/main/e426702edf874b181aced1e2fa5c6cde.gif) -->
 
