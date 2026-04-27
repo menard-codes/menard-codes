@@ -1,6 +1,6 @@
 <hgroup>
 	<h1>Menard Maranan 👨‍💻</h1>
-	<p>Fullstack dev building AI-powered tools</p>
+	<p>3+ years Fullstack Developer</p>
 </hgroup>
 
 <h3>Software Developer</h3>
