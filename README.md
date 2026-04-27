@@ -21,8 +21,8 @@
 <p>
 	<a href="https://app.daily.dev/menard_codes" targe="_blank">
 		<img
-		     src="https://github.com/menard-codes/menard-codes/blob/main/devcard.svg"
-		     width="256"
+		     src="./devcard.svg"
+		     width="356"
 		     align="right"
 		     alt="Menard Maranan's Dev Card"/>
 	</a>
