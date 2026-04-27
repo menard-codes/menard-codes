@@ -3,7 +3,7 @@
 	<p>3+ years Fullstack Developer</p>
 </hgroup>
 
-<h3>Software Developer</h3>
+<h3>Personal Links</h3>
 
 <!-- ![programmer gif](https://raw.githubusercontent.com/menard-codes/menard-codes/main/e426702edf874b181aced1e2fa5c6cde.gif) -->
 
