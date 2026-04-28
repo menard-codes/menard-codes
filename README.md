@@ -7,11 +7,13 @@
 
 <!-- ![programmer gif](https://raw.githubusercontent.com/menard-codes/menard-codes/main/e426702edf874b181aced1e2fa5c6cde.gif) -->
 
-<a href="mailto:?to=menardmaranan.codes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="menard_codes" /></a>
-<a href="https://linkedin.com/in/menard-maranan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="menard-codes" /></a>
+<div style="display: flex">
+	<a href="mailto:?to=menardmaranan.codes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="menard_codes" /></a>
+	<a href="https://linkedin.com/in/menard-maranan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="menard-codes" /></a>
+	<a href="https://twitter.com/menard_codes" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="menard_codes" /></a>
+</div>
 <!-- <a href="https://dev.to/menard_codes" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="menard-maranan" /></a> -->
 <!-- <a href="https://www.freecodecamp.org/news/author/menard/" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="menard-maranan" /></a> -->
-<a href="https://twitter.com/menard_codes" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="menard_codes" /></a>
 <!-- <a href="https://hashnode.com/@menard-codes" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="menard-maranan" /></a> -->
 
 ### Github
